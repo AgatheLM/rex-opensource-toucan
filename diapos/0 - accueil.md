@@ -1,5 +1,5 @@
-# Comment rendre son application opensource
+# Retour d'expérience opensource Toucan
 
-[Gaëtan Varlet](https://github.com/gaetan-varlet) - Cédric Couralet
+[Gaëtan Varlet](https://github.com/gaetan-varlet)
 
-3 novembre 2020
+25 janvier 2021

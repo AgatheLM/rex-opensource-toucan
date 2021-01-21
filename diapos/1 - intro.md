@@ -1,31 +1,29 @@
-# Introduction
+
+- idée est venue avec le besoin de lancer l'application en externe par un prestataire
+- réalisation : rendre l'application **non adhérente** à l'environnement Insee
 
 ----
 
-## Ca veut dire quoi rendre son application opensource ?
+### Etape 1 : Etre non-adhérent à l'environnement
 
-- la préparer à la publier sur un dépôt public
-- un grand principe : la **non adhérence** à des composants Insee
-    - composants libres
-        - base de données
-        - service d'authentification
-    - composants propriétaires
-        - service de gestion des contacts
-        - service d'envoi de mails
-        - InseeConfig
+![Schéma de l'architecture](diapos/images/archi2.png "Schéma de l'architecture")
 
 ----
 
-## Pourquoi ?
+### Etape 2 : Avoir une application autonome
 
-Parce qu'on est en 2020 !
+![Schéma de l'architecture](diapos/images/archi2.png "Schéma de l'architecture")
 
 ----
 
-## Pourquoi ?
+ ### Retour d'expérience
 
-- portabilité, interopérabilité, reproductibilité
-    - exécution en externe pour développement hors réseau Insee (PC perso en télétravail, prestation externe...)
-    - amélioration de la qualité du code
-    - facilité du développement et de la maintenance
-- contraintes légales : loi pour une République numérique de 2016, publication en opensource par défaut
+- fonctionnement adopté depuis mars 2020
+- utilisation de Gitlab externe pour développer sur PC perso
+- très pratique pour développer
+- très apprécié par toute l'équipe
+
+ ----
+
+ ### Démo
+ 
