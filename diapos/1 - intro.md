@@ -1,3 +1,4 @@
+### Intro
 
 - idée est venue avec le besoin de lancer l'application en externe par un prestataire
 - réalisation : rendre l'application **non adhérente** à l'environnement Insee
@@ -26,4 +27,3 @@
  ----
 
  ### Démo
- 
