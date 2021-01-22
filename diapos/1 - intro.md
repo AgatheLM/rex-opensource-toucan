@@ -17,13 +17,14 @@
 
 ----
 
+ ### Démo
+
+
+----
+
  ### Retour d'expérience
 
 - fonctionnement adopté depuis mars 2020
 - utilisation de Gitlab externe pour développer sur PC perso
 - très pratique pour développer
 - très apprécié par toute l'équipe
-
-----
-
- ### Démo
