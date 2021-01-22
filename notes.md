@@ -18,5 +18,8 @@ démo :
 - démo import de données + visu
 
 conclusion :
-- cf diapo
-- discussions
+- il n'y a pas d'effets de bord avec des données qui peuvent changer à la base à laquelle on se connecte car le chargement de la base en mémoire se fait au démarrage de l'application avec les données que j'ai précisé dans le code source
+- on peut développer n'importe ou, même si je n'ai pas de réseau, pas grave car pas besoin de me connecter au serveur Keycloak ou au serveur Postgre
+- l'avantage du pc hors réseau et qu'on s'affranchit de tous les problèmes réseau avec Direct Access qu'il peut y avoir depuis le début du télétravail massif
+
+discussion
